@@ -26,7 +26,7 @@
   - [kubemark]
   - [preferredimports]
   - [prune-junit-xml]
-  - [yamlfmt]():
+  - [yamlfmt]
 + [pkg]
   - [api]
   - [apis]
@@ -55,7 +55,7 @@
   - [securitycontext]
   - [serviceaccount]
   - [util]
-  - [volume]
+  - [volume]()
   - [windows]
 + [plugin]
   - [admission]
@@ -92,7 +92,7 @@
   - [api]
   - [apiextensions-apiserver]
   - [apimachinery]
-  - [**apiserver**]()
+  - [**apiserver**](./staging/src/k8s.io/apiserver/index.md)
   - [cli-runtime]
   - [**client-go**]()
   - [cloud-provider]
